@@ -8,4 +8,10 @@
 3. Birthday I cake
   * [Task](https://www.codewars.com/kata/5805ed25c2799821cb000005)
   * [Solution](https://github.com/newfaceee/practice/blob/master/arrays/birthday-i-cake.js)
+4. Flatten and sort
+  * [Task](https://www.codewars.com/kata/flatten-and-sort-an-array/)
+  * [Solution](https://github.com/newfaceee/practice/blob/master/arrays/flatten-and-sort.js)
+5. Flat method
+  * [Task]()
+  * [Solution](https://github.com/newfaceee/practice/blob/master/arrays/flat-method.js)
  
